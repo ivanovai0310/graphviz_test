@@ -9,7 +9,7 @@ class MethodModel:
     name: str
     calls: List[str] = field(
         default_factory=list
-    )  # Вызовы других классов внутри метода
+    )  # Вызовы других методов внутри метода или других классов
 
 
 @dataclass
@@ -39,14 +39,17 @@ class PythonStaticAnalyzer:
                         self._extract_methods_and_calls(code)
 
     def _remove_comments_from_code(self, code):
+        # Удаление строковых и многострочных комментариев
         code = re.sub(r"(?<!\\)#.*", "", code)
         code = re.sub(r'\'\'\'(.*?)\'\'\'|"""(.*?)"""', "", code, flags=re.DOTALL)
         return code
 
     def _sanitize_name(self, name):
+        # Удаляет любые параметры в квадратных скобках
         return re.sub(r"\[.*?\]", "", name)
 
     def _extract_classes(self, code, directory, filename):
+        # Находит все классы с опциональным наследованием
         class_pattern = r"class\s+(\w+)(?:\((.*?)\))?:"
         for match in re.finditer(class_pattern, code):
             class_name = self._sanitize_name(match.group(1))
@@ -58,6 +61,7 @@ class PythonStaticAnalyzer:
                 if match.group(2)
                 else []
             )
+            # Добавляем класс в модель с информацией о пути к файлу и имени файла
             self.model[class_name] = ClassModel(
                 name=class_name,
                 parents=parents,
@@ -66,6 +70,7 @@ class PythonStaticAnalyzer:
             )
 
     def _extract_methods_and_calls(self, code):
+        # Находим все методы и связываем их с классами
         class_body_pattern = r"class\s+(\w+)(?:\(.*?\))?:\s*(.*?)\n(?=class|\Z)"
         method_pattern = r"def\s+(\w+)\s*\("
         call_pattern = r"\b(\w+)\("
@@ -78,25 +83,35 @@ class PythonStaticAnalyzer:
             if not current_class:
                 continue
 
-            unique_calls = (
-                set()
-            )  # Для хранения уникальных вызовов в рамках одного класса
+            # Словарь для отслеживания методов текущего класса
+            method_dict = {}
+            unique_calls = set()
 
+            # Извлекаем методы и сохраняем их в словарь
             for method_match in re.finditer(method_pattern, class_body):
                 method_name = method_match.group(1)
                 method_model = MethodModel(name=method_name)
+                current_class.methods.append(method_model)
+                method_dict[method_name] = (
+                    method_model  # Сохраняем метод для ссылок внутри класса
+                )
 
-                method_start = method_match.end()
+            # Извлекаем вызовы и добавляем их как вызовы внутри класса, если метод найден
+            for method_model in current_class.methods:
+                method_start = class_body.find(f"def {method_model.name}(")
                 method_body = class_body[method_start:]
 
                 for call_match in re.finditer(call_pattern, method_body):
-                    called_class = self._sanitize_name(call_match.group(1))
+                    called_name = self._sanitize_name(call_match.group(1))
 
-                    if called_class != class_name and called_class not in unique_calls:
-                        method_model.calls.append(called_class)
-                        unique_calls.add(called_class)
-
-                current_class.methods.append(method_model)
+                    # Проверка, является ли вызов методом текущего класса
+                    if called_name in method_dict:
+                        # Если вызывается метод текущего класса
+                        method_model.calls.append(called_name)
+                    elif called_name not in unique_calls and called_name != class_name:
+                        # Если вызывается внешний класс
+                        method_model.calls.append(called_name)
+                        unique_calls.add(called_name)
 
     def get_model(self):
         return self.model

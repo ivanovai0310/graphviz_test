@@ -1,6 +1,5 @@
 from typing import Dict
-
-from graphviz import Source
+from graphviz import Digraph, Source
 from code_analyzer import ClassModel, PythonStaticAnalyzer
 import os
 
@@ -16,9 +15,11 @@ class GraphvizDiagramBuilder:
         diagram = [
             "digraph UML_Class_diagram {",
             "\tgraph [",
-            '\t\tlabel="UML Class diagram demo"',
+            '\t\tlabel="UML Class diagram"',
             '\t\tlabelloc="t"',
             '\t\tfontname="Helvetica,Arial,sans-serif"',
+            "\t\tranksep=2.0;",  # Увеличение вертикального расстояния между уровнями
+            "\t\tnodesep=1.0;",  # Увеличение горизонтального расстояния между узлами
             "\t];",
             "\tnode [",
             '\t\tfontname="Helvetica,Arial,sans-serif"',
@@ -27,30 +28,45 @@ class GraphvizDiagramBuilder:
             '\tedge [fontname="Helvetica,Arial,sans-serif"];',
         ]
 
+        # Группировка классов по директориям
+        classes_by_directory = {}
         for class_name, class_info in self.model.items():
-            sanitized_class_name = self._sanitize_node_name(class_name)
-            relative_path = (
-                os.path.basename(os.path.dirname(class_info.directory))
-                + "/"
-                + class_info.filename
-            )
+            directory = class_info.directory
+            if directory not in classes_by_directory:
+                classes_by_directory[directory] = []
+            classes_by_directory[directory].append(class_info)
 
-            # Создание HTML-таблицы для класса
-            methods_rows = "".join(
-                f'<tr><td align="left" port="{method.name}">+ {method.name}()</td></tr>'
-                for method in class_info.methods
+        # Создание подграфов для каждой директории
+        for directory, classes in classes_by_directory.items():
+            sanitized_directory_name = self._sanitize_node_name(
+                directory.replace("/", "_").replace("-", "_")
             )
-            methods_section = (
-                methods_rows if methods_rows else "<tr><td>No methods</td></tr>"
-            )
+            directory_sanitize = directory[directory.find("src") - 1 :]
+            diagram.append(f"subgraph cluster_{sanitized_directory_name} {{")
+            # Используем полный путь к директории в качестве заголовка
+            diagram.append(f'\tlabel="{directory_sanitize}";')
+            diagram.append("\tstyle=filled;")
+            diagram.append("\tcolor=lightgreen;")
 
-            label = f"""<<table border="0" cellborder="1" cellspacing="0">
-                <tr><td><b>{class_name}</b></td></tr>
-                <tr><td>{relative_path}</td></tr>
-                {methods_section}
-            </table>>"""
-            diagram.append(f"\t{sanitized_class_name} [label={label}];")
+            for class_info in classes:
+                sanitized_class_name = self._sanitize_node_name(class_info.name)
+                methods_rows = "".join(
+                    f'<tr><td align="left" port="{method.name}">+ {method.name}()</td></tr>'
+                    for method in class_info.methods
+                )
+                methods_section = (
+                    methods_rows if methods_rows else "<tr><td>No methods</td></tr>"
+                )
+                label = f"""<<table border="2" cellborder="1" cellspacing="0">
+                    <tr><td align="center" bgcolor="lightgray"><b>{class_info.name}</b></td></tr>
+                    <tr><td align="center">{os.path.basename(class_info.filename)}</td></tr>
+                    {methods_section}
+                </table>>"""
+                diagram.append(f'\t{sanitized_class_name} [label={label}, style=filled, color="#F0F0F0"];')
 
+            diagram.append("}")
+
+        # Добавление связей
         for class_name, class_info in self.model.items():
             sanitized_class_name = self._sanitize_node_name(class_name)
             for parent in class_info.parents:
@@ -67,7 +83,7 @@ class GraphvizDiagramBuilder:
                         sanitized_called_class = self._sanitize_node_name(called_class)
                         diagram.append(
                             f"\t{method_node_name} -> {sanitized_called_class} "
-                            '[ color="blue" arrowtail="diamond" arrowhead="diamond"];'  # style="dashed"
+                            '[color="blue" arrowtail="diamond" arrowhead="normal"];'
                         )
 
         diagram.append("}")
@@ -77,6 +93,22 @@ class GraphvizDiagramBuilder:
         diagram_text = self.build_diagram()
         with open(output_file, "w", encoding="utf-8") as file:
             file.write(diagram_text)
+        print(f"UML Class Diagram сохранена в {output_file}")
+
+    def save_diagram_png(self, output_file="UML_Class_diagram.png"):
+        diagram_text = self.build_diagram()
+
+        # Создаём объект Digraph вместо Source
+        diagram = Digraph()
+        diagram.attr(dpi="300")  # Устанавливаем DPI
+
+        # Добавляем сгенерированный текст диаграммы
+        diagram.body.extend(diagram_text.splitlines())
+
+        # Сохраняем диаграмму в PNG
+        diagram.format = "png"
+        diagram.render(filename=output_file, cleanup=True)
+
         print(f"UML Class Diagram сохранена в {output_file}")
 
     def save_diagram_svg(self, output_file="UML_Class_diagram"):

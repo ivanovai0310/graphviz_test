@@ -1,7 +1,7 @@
 import subprocess
 from code_analyzer import PythonStaticAnalyzer
 from diagramm_creater import GraphvizDiagramBuilder
-    
+
 """
     https://github.com/ivanovai0310/graphviz_test
 """
@@ -10,7 +10,9 @@ from diagramm_creater import GraphvizDiagramBuilder
 if __name__ == "__main__":
     # Analyze the folder and get the model
     analyzer = PythonStaticAnalyzer(
-        "/Users/aleksejivanov/PycharmProjects/synonym-soft/itb-synonym-core/src/filetransfer"
+        "/Users/aleksejivanov/PycharmProjects/nt-core/src/gui"
+        # "/Users/aleksejivanov/PycharmProjects/synonym-soft/itb-synonym-core/src/filetransfer"
+        # "/Users/aleksejivanov/PycharmProjects/synonym-soft/itb-synonym-core/src/filetransfer"
     )
     # analyzer.generate_test_data()
     analyzer.analyze()
@@ -22,7 +24,7 @@ if __name__ == "__main__":
     diagram_builder.save_diagram()
     # diagram_builder.save_diagram_pdf()
     # diagram_builder.save_diagram_svg()
-    
+
     # diagram_builder.render_diagram("uml_output_file")
 
     subprocess.run(
