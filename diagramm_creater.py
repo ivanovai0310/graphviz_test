@@ -1,4 +1,6 @@
 from typing import Dict
+
+from graphviz import Source
 from code_analyzer import ClassModel, PythonStaticAnalyzer
 import os
 
@@ -8,11 +10,9 @@ class GraphvizDiagramBuilder:
         self.model = model
 
     def _sanitize_node_name(self, name):
-        # Экранируем имя узла для Graphviz
-        return f'"{name}"'
+        return f"_{name}" if name in "Node" else name
 
     def build_diagram(self):
-        # Начало диаграммы в формате Graphviz
         diagram = [
             "digraph UML_Class_diagram {",
             "\tgraph [",
@@ -22,33 +22,35 @@ class GraphvizDiagramBuilder:
             "\t];",
             "\tnode [",
             '\t\tfontname="Helvetica,Arial,sans-serif"',
-            "\t\tshape=record",
-            "\t\tstyle=filled",
-            "\t\tfillcolor=gray95",
+            "\t\tshape=none",  # Используем форму `none` для поддержки HTML-таблиц
             "\t];",
             '\tedge [fontname="Helvetica,Arial,sans-serif"];',
         ]
 
-        # Создание узлов для каждого класса с комментарием о пути к файлу
         for class_name, class_info in self.model.items():
             sanitized_class_name = self._sanitize_node_name(class_name)
-
-            # Формируем строку с методами
-            methods = '<br align="left"/>'.join(
-                f"+ {method.name}()" for method in class_info.methods
+            relative_path = (
+                os.path.basename(os.path.dirname(class_info.directory))
+                + "/"
+                + class_info.filename
             )
-            methods_section = methods if methods else "No methods"
-            label = f'<{{<b>{class_name}</b>|{methods_section}<br align="left"/>}}>'
+
+            # Создание HTML-таблицы для класса
+            methods_rows = "".join(
+                f'<tr><td align="left" port="{method.name}">+ {method.name}()</td></tr>'
+                for method in class_info.methods
+            )
+            methods_section = (
+                methods_rows if methods_rows else "<tr><td>No methods</td></tr>"
+            )
+
+            label = f"""<<table border="0" cellborder="1" cellspacing="0">
+                <tr><td><b>{class_name}</b></td></tr>
+                <tr><td>{relative_path}</td></tr>
+                {methods_section}
+            </table>>"""
             diagram.append(f"\t{sanitized_class_name} [label={label}];")
 
-            # Добавляем комментарий с путём к файлу
-            relative_path = os.path.join(
-                os.path.basename(os.path.dirname(class_info.directory)),
-                class_info.filename,
-            )
-            diagram.append(f"// {sanitized_class_name} located at {relative_path}")
-
-        # Добавление связей для представления отношений наследования
         for class_name, class_info in self.model.items():
             sanitized_class_name = self._sanitize_node_name(class_name)
             for parent in class_info.parents:
@@ -57,18 +59,17 @@ class GraphvizDiagramBuilder:
                     f'\t{sanitized_class_name} -> {sanitized_parent} [dir="back" arrowtail="empty" style=""];'
                 )
 
-            # Добавление связей для вызовов других классов из методов
+            # Добавляем связи от методов
             for method in class_info.methods:
+                method_node_name = f"{sanitized_class_name}:{method.name}"
                 for called_class in method.calls:
                     if called_class in self.model:
                         sanitized_called_class = self._sanitize_node_name(called_class)
-                        # Добавляем точку в начале и стрелку на конце для вызовов от метода
                         diagram.append(
-                            f"\t{sanitized_class_name} -> {sanitized_called_class} "
-                            '[style="dashed" color="blue" arrowtail="dot" arrowhead="normal"];'
+                            f"\t{method_node_name} -> {sanitized_called_class} "
+                            '[ color="blue" arrowtail="diamond" arrowhead="diamond"];'  # style="dashed"
                         )
 
-        # Завершение диаграммы
         diagram.append("}")
         return "\n".join(diagram)
 
@@ -76,6 +77,20 @@ class GraphvizDiagramBuilder:
         diagram_text = self.build_diagram()
         with open(output_file, "w", encoding="utf-8") as file:
             file.write(diagram_text)
+        print(f"UML Class Diagram сохранена в {output_file}")
+
+    def save_diagram_svg(self, output_file="UML_Class_diagram"):
+        diagram_text = self.build_diagram()
+        diagram = Source(diagram_text)
+        diagram.format = "svg"
+        diagram.render(filename=output_file, cleanup=True)
+        print(f"UML Class Diagram сохранена в {output_file}")
+
+    def save_diagram_pdf(self, output_file="UML_Class_diagram"):
+        diagram_text = self.build_diagram()
+        diagram = Source(diagram_text)
+        diagram.format = "pdf"
+        diagram.render(filename=output_file, cleanup=True)
         print(f"UML Class Diagram сохранена в {output_file}")
 
 
