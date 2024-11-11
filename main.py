@@ -10,18 +10,20 @@ from diagramm_creater import GraphvizDiagramBuilder
 if __name__ == "__main__":
     # Analyze the folder and get the model
     analyzer = PythonStaticAnalyzer(
-        "/Users/aleksejivanov/PycharmProjects/nt-core/src/gui"
+        # "/Users/aleksejivanov/PycharmProjects/nt-core/src/gui"
         # "/Users/aleksejivanov/PycharmProjects/synonym-soft/itb-synonym-core/src/filetransfer"
-        # "/Users/aleksejivanov/PycharmProjects/synonym-soft/itb-synonym-core/src/filetransfer"
+        "/Users/aleksejivanov/PycharmProjects/synonym-soft/itb-synonym-core/src/filetransfer"
     )
     # analyzer.generate_test_data()
     analyzer.analyze()
     model = analyzer.get_model()
+    analyzer.save_model_to_json("anylyzer.conf")
 
     # Build and render the Graphviz diagram
     diagram_builder = GraphvizDiagramBuilder(model)
     diagram_builder.build_diagram()
     diagram_builder.save_diagram()
+
     # diagram_builder.save_diagram_pdf()
     # diagram_builder.save_diagram_svg()
 

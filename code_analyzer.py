@@ -1,5 +1,6 @@
+import json
 import os
-from dataclasses import dataclass, field
+from dataclasses import asdict, dataclass, field
 import re
 from typing import List, Dict
 
@@ -7,9 +8,7 @@ from typing import List, Dict
 @dataclass
 class MethodModel:
     name: str
-    calls: List[str] = field(
-        default_factory=list
-    )  # Вызовы других методов внутри метода или других классов
+    calls: List[str] = field(default_factory=list)
 
 
 @dataclass
@@ -17,15 +16,16 @@ class ClassModel:
     name: str
     methods: List[MethodModel] = field(default_factory=list)
     parents: List[str] = field(default_factory=list)
-    calls: List[str] = field(default_factory=list)  # Вызовы других классов из методов
-    directory: str = ""  # Каталог, где находится файл
-    filename: str = ""  # Имя файла
+    calls: List[str] = field(default_factory=list)
+    directory: str = ""
+    filename: str = ""
 
 
 class PythonStaticAnalyzer:
     def __init__(self, folder_path):
         self.folder_path = folder_path
         self.model: Dict[str, ClassModel] = {}
+        self.all_classes = set()
 
     def analyze(self):
         for root, _, files in os.walk(self.folder_path):
@@ -38,18 +38,17 @@ class PythonStaticAnalyzer:
                         self._extract_classes(code, root, file)
                         self._extract_methods_and_calls(code)
 
+        self._add_missing_parents()
+
     def _remove_comments_from_code(self, code):
-        # Удаление строковых и многострочных комментариев
         code = re.sub(r"(?<!\\)#.*", "", code)
         code = re.sub(r'\'\'\'(.*?)\'\'\'|"""(.*?)"""', "", code, flags=re.DOTALL)
         return code
 
     def _sanitize_name(self, name):
-        # Удаляет любые параметры в квадратных скобках
         return re.sub(r"\[.*?\]", "", name)
 
     def _extract_classes(self, code, directory, filename):
-        # Находит все классы с опциональным наследованием
         class_pattern = r"class\s+(\w+)(?:\((.*?)\))?:"
         for match in re.finditer(class_pattern, code):
             class_name = self._sanitize_name(match.group(1))
@@ -61,16 +60,15 @@ class PythonStaticAnalyzer:
                 if match.group(2)
                 else []
             )
-            # Добавляем класс в модель с информацией о пути к файлу и имени файла
             self.model[class_name] = ClassModel(
                 name=class_name,
                 parents=parents,
                 directory=directory,
                 filename=filename,
             )
+            self.all_classes.add(class_name)
 
     def _extract_methods_and_calls(self, code):
-        # Находим все методы и связываем их с классами
         class_body_pattern = r"class\s+(\w+)(?:\(.*?\))?:\s*(.*?)\n(?=class|\Z)"
         method_pattern = r"def\s+(\w+)\s*\("
         call_pattern = r"\b(\w+)\("
@@ -83,35 +81,47 @@ class PythonStaticAnalyzer:
             if not current_class:
                 continue
 
-            # Словарь для отслеживания методов текущего класса
             method_dict = {}
             unique_calls = set()
 
-            # Извлекаем методы и сохраняем их в словарь
             for method_match in re.finditer(method_pattern, class_body):
                 method_name = method_match.group(1)
                 method_model = MethodModel(name=method_name)
                 current_class.methods.append(method_model)
-                method_dict[method_name] = (
-                    method_model  # Сохраняем метод для ссылок внутри класса
-                )
+                method_dict[method_name] = method_model
 
-            # Извлекаем вызовы и добавляем их как вызовы внутри класса, если метод найден
             for method_model in current_class.methods:
                 method_start = class_body.find(f"def {method_model.name}(")
                 method_body = class_body[method_start:]
 
                 for call_match in re.finditer(call_pattern, method_body):
                     called_name = self._sanitize_name(call_match.group(1))
-
-                    # Проверка, является ли вызов методом текущего класса
                     if called_name in method_dict:
-                        # Если вызывается метод текущего класса
                         method_model.calls.append(called_name)
                     elif called_name not in unique_calls and called_name != class_name:
-                        # Если вызывается внешний класс
                         method_model.calls.append(called_name)
                         unique_calls.add(called_name)
 
+    def _add_missing_parents(self):
+        val = self.model.copy( ) 
+        for class_model in val.values():
+            for parent in class_model.parents:
+                if parent not in self.model:
+                    # Добавляем родительский класс в модель
+                    self.model[parent] = ClassModel(
+                        name=parent,
+                        directory="python_and_other_modules",
+                        filename="path unknown",
+                    )
+                    self.all_classes.add(parent)
+
     def get_model(self):
         return self.model
+
+    def save_model_to_json(self, filepath):
+        model_dict = {
+            class_name: asdict(class_model)
+            for class_name, class_model in self.model.items()
+        }
+        with open(filepath, "w", encoding="utf-8") as f:
+            json.dump(model_dict, f, indent=4, ensure_ascii=False)

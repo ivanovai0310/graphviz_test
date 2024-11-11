@@ -41,7 +41,11 @@ class GraphvizDiagramBuilder:
             sanitized_directory_name = self._sanitize_node_name(
                 directory.replace("/", "_").replace("-", "_")
             )
-            directory_sanitize = directory[directory.find("src") - 1 :]
+            directory_sanitize = (
+                directory[directory.find("src") - 1 :]
+                if directory.find("src") > 0
+                else directory
+            )
             diagram.append(f"subgraph cluster_{sanitized_directory_name} {{")
             # Используем полный путь к директории в качестве заголовка
             diagram.append(f'\tlabel="{directory_sanitize}";')
