@@ -103,7 +103,7 @@ class PythonStaticAnalyzer:
                         unique_calls.add(called_name)
 
     def _add_missing_parents(self):
-        val = self.model.copy( ) 
+        val = self.model.copy() 
         for class_model in val.values():
             for parent in class_model.parents:
                 if parent not in self.model:
@@ -125,3 +125,14 @@ class PythonStaticAnalyzer:
         }
         with open(filepath, "w", encoding="utf-8") as f:
             json.dump(model_dict, f, indent=4, ensure_ascii=False)
+
+    def filter_model_by_tracer(self, tracer):
+        all_tracer_classes = {el.class_name for el in tracer}
+        model_val = self.model.copy()
+        filtred_model = {}
+        for _name, _class in model_val.items():
+            if _name in all_tracer_classes:
+                filtred_model[_name] = _class
+        self.model = filtred_model
+        #add filtred connections
+        
