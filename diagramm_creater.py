@@ -1,12 +1,19 @@
+from enum import Enum
 from typing import Dict
 from graphviz import Digraph, Source
 from code_analyzer import ClassModel, PythonStaticAnalyzer
 import os
 
 
+class Modes(str, Enum):
+    TRACER = "tracer"
+    CONNECTIONS = "connections"
+
+
 class GraphvizDiagramBuilder:
-    def __init__(self, model: Dict[str, ClassModel]):
+    def __init__(self, model: Dict[str, ClassModel], mode:Modes,):
         self.model = model
+        self.mode = mode
 
     def _sanitize_node_name(self, name):
         return f"_{name}" if name in "Node" else name
@@ -99,17 +106,9 @@ class GraphvizDiagramBuilder:
             file.write(diagram_text)
         print(f"UML Class Diagram сохранена в {output_file}")
 
-    def save_diagram_png(self, output_file="UML_Class_diagram.png"):
+    def save_diagram_png(self, output_file="UML_Class_diagram"):
         diagram_text = self.build_diagram()
-
-        # Создаём объект Digraph вместо Source
-        diagram = Digraph()
-        diagram.attr(dpi="300")  # Устанавливаем DPI
-
-        # Добавляем сгенерированный текст диаграммы
-        diagram.body.extend(diagram_text.splitlines())
-
-        # Сохраняем диаграмму в PNG
+        diagram = Source(diagram_text)
         diagram.format = "png"
         diagram.render(filename=output_file, cleanup=True)
 
