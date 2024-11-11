@@ -23,12 +23,13 @@ if __name__ == "__main__":
     diagram_builder = GraphvizDiagramBuilder(model)
     diagram_builder.build_diagram()
     diagram_builder.save_diagram()
+    diagram_builder.save_diagram_png()
 
     # diagram_builder.save_diagram_pdf()
     # diagram_builder.save_diagram_svg()
 
     # diagram_builder.render_diagram("uml_output_file")
 
-    subprocess.run(
-        ["dot", "-Tpng", "UML_Class_diagram.gv", "-o", "UML_Class_diagram.png"]
-    )
+    # subprocess.run(
+    #     ["dot", "-Tpng", "UML_Class_diagram.gv", "-o", "UML_Class_diagram.png"]
+    # )

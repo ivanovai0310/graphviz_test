@@ -1,0 +1,408 @@
+
+Sep  3 18:53:00 synonyx-A-81 python3[19416]: INFO - tracer - ************ Performance Report ************
+Sep  3 18:53:00 synonyx-A-81 python3[19416]: INFO - tracer - Global memory usage (RSS): 19.3 MB
+Sep  3 18:53:00 synonyx-A-81 python3[19416]: INFO - tracer - CPU load averages (1min, 5min, 15min): 87.00%, 43.00%, 34.00%
+Sep  3 18:53:00 synonyx-A-81 python3[19416]: INFO - tracer - System total memory: 971.4 MB
+Sep  3 18:53:00 synonyx-A-81 python3[19416]: INFO - tracer - System used memory: 391.2 MB
+Sep  3 18:53:00 synonyx-A-81 python3[19416]: INFO - tracer - System available memory: 580.2 MB
+Sep  3 18:53:00 synonyx-A-81 python3[19416]: INFO - tracer - Total disk space: 8.2 GB
+Sep  3 18:53:00 synonyx-A-81 python3[19416]: INFO - tracer - Free disk space: 6.2 GB
+Sep  3 18:53:00 synonyx-A-81 python3[19416]: INFO - tracer - *******************************************
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandShell, function: precmd
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandShell, function: _reset_alarm
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: <listcomp> in opt/synonym/lib/python3.7/site-packages/syn_shell/command_tree/finder.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: find_command
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: partition_line
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/syn_shell/command_tree/finder.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/syn_shell/command_tree/finder.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/syn_shell/command_tree/finder.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/syn_shell/command_tree/finder.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/syn_shell/command_tree/finder.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/syn_shell/command_tree/finder.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/syn_shell/command_tree/finder.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/syn_shell/command_tree/finder.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/syn_shell/command_tree/finder.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/syn_shell/command_tree/finder.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandTree, function: __len__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: find_part
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: update_finded_leaves
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: get_childrens
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: <listcomp>
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: find_part
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: update_finded_leaves
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: get_childrens
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: <listcomp>
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: find_part
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: update_finded_leaves
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: get_childrens
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: <listcomp>
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: find_part
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: update_finded_leaves
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: get_childrens
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: <listcomp>
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: find_part
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: update_finded_leaves
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: get_childrens
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: <listcomp>
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: find_part
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: update_finded_leaves
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: get_childrens
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: <listcomp>
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: find_part
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: update_finded_leaves
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: get_childrens
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: <listcomp>
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: find_part
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: update_finded_leaves
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: get_childrens
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: <listcomp>
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: find_part
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: update_finded_leaves
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: get_childrens
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: <listcomp>
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: find_part
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: CommandFinder, function: update_finded_leaves
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: get_childrens
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: <listcomp>
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/syn_shell/shell.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: FindedLeaf, function: is_last_leaf
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: wrapper in opt/synonym/lib/python3.7/site-packages/features/exceptions.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: inner_wrapper in opt/synonym/lib/python3.7/site-packages/features/syn_block.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _keep_alive: KeyError - 133913361313152
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _keep_alive: KeyError - 133913366250768
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _keep_alive: KeyError - 133913361313152
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _keep_alive: KeyError - 133913366250768
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _keep_alive: KeyError - 133913361313152
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _keep_alive: KeyError - 133913366250768
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _keep_alive: KeyError - 133913361313152
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _keep_alive: KeyError - 133913366250768
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _keep_alive: KeyError - 133913361313152
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _keep_alive: KeyError - 133913366250768
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _keep_alive: KeyError - 133913361313152
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _keep_alive: KeyError - 133913366250768
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _keep_alive: KeyError - 133913361341104
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: LicenseManager, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: get_config_object in opt/synonym/lib/python3.7/site-packages/conf/syn_config.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in __getitem__: KeyError - b'SYNDBG'
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in __getitem__: KeyError - 'SYNDBG'
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in get: KeyError - 'SYNDBG'
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __new__ in opt/synonym/lib/python3.7/site-packages/conf/syn_config.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _ProductionConfig, function: __init__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: validate in opt/synonym/lib/python3.7/site-packages/conf/syn_config.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: read_json in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: from_json in opt/synonym/lib/python3.7/site-packages/conf/model_default_conf.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: get_board_type in opt/synonym/lib/python3.7/site-packages/conf/syn_config.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: read_conf in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _ProductionConfig, function: set_setup_attr
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: from_json_file in opt/synonym/lib/python3.7/site-packages/conf/model_node.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: read_json in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: validator_name in opt/synonym/lib/python3.7/site-packages/conf/model_node.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in __iter__: GeneratorExit -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: validator_name in opt/synonym/lib/python3.7/site-packages/conf/model_node.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in __iter__: GeneratorExit -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: validator_name in opt/synonym/lib/python3.7/site-packages/conf/model_node.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in __iter__: GeneratorExit -
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:00 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _compile: KeyError - (<class 're.Pattern'>, re.compile('^0x[0-9A-Fa-f]{4}$'), 0)
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _compile: KeyError - (<class 're.Pattern'>, re.compile('^0x[0-9A-Fa-f]{4}$'), 0)
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _compile: KeyError - (<class 're.Pattern'>, re.compile('^0x[0-9A-Fa-f]{2}$'), 0)
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _compile: KeyError - (<class 're.Pattern'>, re.compile('^0x[0-9A-Fa-f]{2}$'), 0)
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: LicenseManager, function: get_license_model
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in get_numeric: ValueError - could not convert string to float: '2000-01-01'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in get_numeric: ValueError - could not convert string to float: '2100-01-01'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in get_numeric: ValueError - could not convert string to float: '2000-01-01'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in get_numeric: ValueError - could not convert string to float: '2100-01-01'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in get_numeric: ValueError - could not convert string to float: '2000-01-01'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in get_numeric: ValueError - could not convert string to float: '2100-01-01'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in get_numeric: ValueError - could not convert string to float: '2000-01-01'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in get_numeric: ValueError - could not convert string to float: '2100-01-01'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in get_numeric: ValueError - could not convert string to float: '2000-01-01'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in get_numeric: ValueError - could not convert string to float: '2100-01-01'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: is_license_expire in opt/synonym/lib/python3.7/site-packages/license/license_impl.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: LicenseManager, function: is_license_ok
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: get_board_type in opt/synonym/lib/python3.7/site-packages/conf/syn_config.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: read_conf in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: LicenseManager, function: get_module_license_info
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: LicenseManager, function: is_license_invalid_for_dates
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: LicenseManager, function: is_mac_addresses_verified
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: LicenseManager, function: get_module_license_info
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: LicenseManager, function: is_license_invalid_for_dates
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: LicenseManager, function: is_diode_ok
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/license/license_impl.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/license/license_impl.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/license/license_impl.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/license/license_impl.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/license/license_impl.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in stat: FileNotFoundError - [Errno 2] No such file or directory: '/var/synonym/syn-conf.lock'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in exists: FileNotFoundError - [Errno 2] No such file or directory: '/var/synonym/syn-conf.lock'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: LicenseManager, function: is_transport_slots_out_of_limits
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: is_integrity_ok in opt/synonym/lib/python3.7/site-packages/features/syn_integrity.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: get_config in opt/synonym/lib/python3.7/site-packages/conf/syn_config.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in __getitem__: KeyError - b'SYNDBG'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in __getitem__: KeyError - 'SYNDBG'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in get: KeyError - 'SYNDBG'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in stat: FileNotFoundError - [Errno 2] No such file or directory: '/var/synonym/conf/integrity_marker'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in exists: FileNotFoundError - [Errno 2] No such file or directory: '/var/synonym/conf/integrity_marker'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: NetworkShell, function: tr_acl_add_to_blacklist
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_slot_number in opt/synonym/lib/python3.7/site-packages/models/ip_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_ip in opt/synonym/lib/python3.7/site-packages/models/ip_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/shell_acl_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_netmask in opt/synonym/lib/python3.7/site-packages/models/shell_acl_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: from_shell_args in opt/synonym/lib/python3.7/site-packages/syn_network/net_managers/acl_manager.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: get_acl_config in opt/synonym/lib/python3.7/site-packages/syn_network/net_managers/acl_manager.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: AclManager, function: __init__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: get_config_object in opt/synonym/lib/python3.7/site-packages/conf/syn_config.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in __getitem__: KeyError - b'SYNDBG'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in __getitem__: KeyError - 'SYNDBG'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in get: KeyError - 'SYNDBG'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __new__ in opt/synonym/lib/python3.7/site-packages/conf/syn_config.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _ProductionConfig, function: __init__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: validate in opt/synonym/lib/python3.7/site-packages/conf/syn_config.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: read_json in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: from_json in opt/synonym/lib/python3.7/site-packages/conf/model_default_conf.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: get_board_type in opt/synonym/lib/python3.7/site-packages/conf/syn_config.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: read_conf in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _ProductionConfig, function: set_setup_attr
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: from_json_file in opt/synonym/lib/python3.7/site-packages/conf/model_node.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: read_json in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: validator_name in opt/synonym/lib/python3.7/site-packages/conf/model_node.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in __iter__: GeneratorExit -
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: validator_name in opt/synonym/lib/python3.7/site-packages/conf/model_node.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in __iter__: GeneratorExit -
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: validator_name in opt/synonym/lib/python3.7/site-packages/conf/model_node.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in __iter__: GeneratorExit -
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _compile: KeyError - (<class 're.Pattern'>, re.compile('^0x[0-9A-Fa-f]{4}$'), 0)
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _compile: KeyError - (<class 're.Pattern'>, re.compile('^0x[0-9A-Fa-f]{4}$'), 0)
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _compile: KeyError - (<class 're.Pattern'>, re.compile('^0x[0-9A-Fa-f]{2}$'), 0)
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _compile: KeyError - (<class 're.Pattern'>, re.compile('^0x[0-9A-Fa-f]{2}$'), 0)
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: get_board_type in opt/synonym/lib/python3.7/site-packages/conf/syn_config.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: read_conf in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: AclManager, function: add_to_black
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: AclManager, function: _add_to_list
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering function: _get_host_by_ip_netmask in opt/synonym/lib/python3.7/site-packages/syn_network/net_managers/acl_manager.py
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in _add_to_list: ValueError - Address 10.0.0.0/24 already in slot_6 list.
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in add_to_black: ValueError - Address 10.0.0.0/24 already in slot_6 list.
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in tr_acl_add_to_blacklist: ValueError - Address 10.0.0.0/24 already in slot_6 list.
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in inner_wrapper: ValueError - Address 10.0.0.0/24 already in slot_6 list.
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in wrapper: ValueError - Address 10.0.0.0/24 already in slot_6 list.
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: INFO - tracer - Entering class: SynLogger, function: error
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in __getitem__: KeyError - b'SYNDBG'
+Sep  3 18:53:01 synonyx-A-81 shell[21974]: ERROR - tracer - Exception in __getitem__: KeyError - 'SYNDBG'
