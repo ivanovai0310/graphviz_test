@@ -1,8 +1,11 @@
 import json
+from operator import methodcaller
 import os
 from dataclasses import asdict, dataclass, field
 import re
 from typing import List, Dict
+
+from tracer_analyzer import Tracer, TracerAnalyzer
 
 
 @dataclass
@@ -19,6 +22,14 @@ class ClassModel:
     calls: List[str] = field(default_factory=list)
     directory: str = ""
     filename: str = ""
+
+
+@dataclass
+class TracerConnection:
+    class_from: str = ""
+    method_from: str = ""
+    class_to: str = ""
+    method_to: str = ""
 
 
 class PythonStaticAnalyzer:
@@ -103,7 +114,7 @@ class PythonStaticAnalyzer:
                         unique_calls.add(called_name)
 
     def _add_missing_parents(self):
-        val = self.model.copy() 
+        val = self.model.copy()
         for class_model in val.values():
             for parent in class_model.parents:
                 if parent not in self.model:
@@ -119,14 +130,38 @@ class PythonStaticAnalyzer:
         return self.model
 
     def save_model_to_json(self, filepath):
-        model_dict = {
-            class_name: asdict(class_model)
-            for class_name, class_model in self.model.items()
-        }
+        model_dict = {}
+
+        for class_name, class_model in self.model.items():
+            # Проверяем, что class_model является экземпляром ClassModel
+            if isinstance(class_model, ClassModel):
+                # Преобразуем методы в словари
+                methods = [asdict(method) for method in class_model.methods]
+
+                # Преобразуем вызовы класса в словари, если это TracerConnection
+                calls = [
+                    asdict(call) if isinstance(call, TracerConnection) else call
+                    for call in class_model.calls
+                ]
+
+                # Создаем словарь для класса с преобразованными полями
+                model_dict[class_name] = {
+                    "name": class_model.name,
+                    "methods": methods,
+                    "parents": class_model.parents,
+                    "calls": calls,
+                    "directory": class_model.directory,
+                    "filename": class_model.filename,
+                }
+            else:
+                print(
+                    f"Warning: Expected ClassModel but got {type(class_model)} for {class_name}"
+                )
+
         with open(filepath, "w", encoding="utf-8") as f:
             json.dump(model_dict, f, indent=4, ensure_ascii=False)
 
-    def filter_model_by_tracer(self, tracer):
+    def filter_model_by_tracer(self, tracer: List[Tracer]):
         all_tracer_classes = {el.class_name for el in tracer}
         model_val = self.model.copy()
         filtred_model = {}
@@ -134,5 +169,40 @@ class PythonStaticAnalyzer:
             if _name in all_tracer_classes:
                 filtred_model[_name] = _class
         self.model = filtred_model
-        #add filtred connections
-        
+        self._add_missing_parents()
+        tracer_conn = []
+        saved_trace_point = None
+        # add tracer connections
+        for line in tracer:
+            if line.class_name or line.method_name:
+                if not saved_trace_point:
+                    saved_trace_point = TracerConnection(
+                        class_from=line.class_name,
+                        method_from=line.method_name,
+                    )
+                else:
+                    saved_trace_point.class_to = line.class_name
+                    saved_trace_point.method_to = line.method_name
+
+                    tracer_conn.append(saved_trace_point)
+                    saved_trace_point = TracerConnection(
+                        class_from=line.class_name,
+                        method_from=line.method_name,
+                    )
+
+        unique_tracer_connections = []
+        seen_connections = set()
+
+        for conn in tracer_conn:
+            # Создаем кортеж для уникальной проверки
+            conn_signature = (
+                conn.class_from,
+                conn.method_from,
+                conn.class_to,
+                conn.method_to,
+            )
+            if conn_signature not in seen_connections:
+                seen_connections.add(conn_signature)
+                unique_tracer_connections.append(conn)
+
+        self.model["tracer"] = unique_tracer_connections
