@@ -5,7 +5,7 @@ from dataclasses import asdict, dataclass, field
 import re
 from typing import List, Dict
 
-from tracer_analyzer import Tracer, TracerAnalyzer
+from src.tracer_analyzer import Tracer, TracerAnalyzer
 
 
 @dataclass

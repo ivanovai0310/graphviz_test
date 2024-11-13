@@ -1,6 +1,7 @@
+import os
 import subprocess
 from typing import List
-from tracer_analyzer import Tracer
+from src.tracer_analyzer import Tracer, TracerAnalyzer
 
 
 # Class for generating PlantUML sequence diagrams from Tracers
@@ -52,17 +53,25 @@ class PlantUMLGenerator:
 
 # Example usage
 if __name__ == "__main__":
-    from tracer_analyzer import TracerAnalyzer
+    log_dir = "examples"
+    for filename in os.listdir(log_dir):
+        if filename.endswith(".tracer"):
+            file_path = os.path.join(log_dir, filename)
 
-    # Открываем лог по новому пути
-    with open("examples/trace.txt", encoding="utf-8") as f:
-        log = f.read()
+            with open(file_path, encoding="utf-8") as f:
+                log = f.read()
 
-    analyzer = TracerAnalyzer(log)
-    tracers = analyzer.parse()
+            analyzer = TracerAnalyzer(log)
+            tracers = analyzer.parse()
 
-    # Generate PlantUML diagram and PNG image
-    generator = PlantUMLGenerator(tracers)
-    puml_file = "trace_diagram.puml"
-    generator.generate_sequence_diagram(puml_file)
-    generator.generate_png(puml_file)
+            # Создаём генератор диаграммы для текущего файла
+            generator = PlantUMLGenerator(tracers)
+
+            # Определяем имена выходных файлов на основе исходного имени
+            base_name = os.path.splitext(filename)[0]
+            puml_file = f"{base_name}.puml"
+            png_file = f"{base_name}.png"
+
+            # Генерация .puml и .png для каждого файла
+            generator.generate_sequence_diagram(puml_file)
+            generator.generate_png(puml_file)

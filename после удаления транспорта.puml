@@ -1,0 +1,19 @@
+@startuml
+
+participant "_ProductionConfig" as _ProductionConfig
+participant "_LiteralGenericAlias" as _LiteralGenericAlias
+participant "_SixMetaPathImporter" as _SixMetaPathImporter
+participant "VendorImporter" as VendorImporter
+participant "SynTransport" as SynTransport
+
+SynTransport -> _ProductionConfig : __init__()
+_ProductionConfig -> _LiteralGenericAlias : __eq__()
+_LiteralGenericAlias -> _ProductionConfig : set_setup_attr()
+_ProductionConfig -> _LiteralGenericAlias : __eq__()
+_LiteralGenericAlias -> SynTransport : apply_transport_config()
+SynTransport -> VendorImporter : find_module()
+VendorImporter -> _SixMetaPathImporter : find_module()
+_SixMetaPathImporter -> SynTransport : get_slots_to_delete()
+SynTransport -> SynTransport : delete_slot()
+
+@enduml

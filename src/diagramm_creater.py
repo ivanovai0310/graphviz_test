@@ -1,7 +1,7 @@
 from enum import Enum
 from typing import Dict
 from graphviz import Digraph, Source
-from code_analyzer import ClassModel, PythonStaticAnalyzer
+from src.code_analyzer import ClassModel, PythonStaticAnalyzer
 import os
 
 

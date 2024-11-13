@@ -1,0 +1,1034 @@
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __iter__: GeneratorExit -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __iter__: GeneratorExit -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in get_user_to_delete: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: get_rule_to_delete
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _compile: KeyError - (<class 'str'>, '(?s:.*submit)\\Z', 0)
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __next: IndexError - string index out of range
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __getitem__: IndexError - list index out of range
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __getitem__: IndexError - list index out of range
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _compile: KeyError - (<class 'str'>, '(?s:.*)\\Z', 0)
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __next: IndexError - string index out of range
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __getitem__: IndexError - list index out of range
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __getitem__: IndexError - list index out of range
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __hash__: AttributeError - _hash
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _cparts: AttributeError - _cached_cparts
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __hash__: AttributeError - _hash
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _cparts: AttributeError - _cached_cparts
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __hash__: AttributeError - _hash
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _cparts: AttributeError - _cached_cparts
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __hash__: AttributeError - _hash
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _cparts: AttributeError - _cached_cparts
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in rglob: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in get_rule_to_delete: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _compile: KeyError - (<class 'str'>, '(?s:.*incoming)\\Z', 0)
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __next: IndexError - string index out of range
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __getitem__: IndexError - list index out of range
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __getitem__: IndexError - list index out of range
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __hash__: AttributeError - _hash
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _cparts: AttributeError - _cached_cparts
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __hash__: AttributeError - _hash
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _cparts: AttributeError - _cached_cparts
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __hash__: AttributeError - _hash
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _cparts: AttributeError - _cached_cparts
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __hash__: AttributeError - _hash
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _cparts: AttributeError - _cached_cparts
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __hash__: AttributeError - _hash
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _cparts: AttributeError - _cached_cparts
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __hash__: AttributeError - _hash
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _cparts: AttributeError - _cached_cparts
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __hash__: AttributeError - _hash
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _cparts: AttributeError - _cached_cparts
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __hash__: AttributeError - _hash
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _cparts: AttributeError - _cached_cparts
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _iterate_directories: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in _select_from: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in rglob: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in get_rule_to_delete: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: delete_users
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in isEnabledFor: KeyError - 20
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: delete_user
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: get_user_del_cmd in opt/synonym/lib/python3.7/site-packages/filetransfer/syn_filetransfer_cmd.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in stat: FileNotFoundError - [Errno 2] No such file or directory: '/opt/synonym-data/u1'
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in is_dir: FileNotFoundError - [Errno 2] No such file or directory: '/opt/synonym-data/u1'
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in delete_user: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: delete_folder
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in rmtree: FileNotFoundError - [Errno 2] No such file or directory: '/opt/synonym-data/u1'
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in rmtree: FileNotFoundError - [Errno 2] No such file or directory: '/opt/synonym-data/u1'
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in delete_folder: FileNotFoundError - [Errno 2] No such file or directory: '/opt/synonym-data/u1'
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: create_users
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: add_user_to_os
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: create_user_dirs_first_level
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: create_dir_set_permissions in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: _add_handlers
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: ConsoleHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SyslogHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in makedirs: FileExistsError - [Errno 17] File exists: '/opt/synonym-data/sig_test_user'
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: create_dir_set_permissions in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: _add_handlers
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: ConsoleHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SyslogHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in makedirs: FileExistsError - [Errno 17] File exists: '/opt/synonym-data/sig_test_user/error'
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: create_dir_set_permissions in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: _add_handlers
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: ConsoleHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SyslogHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in makedirs: FileExistsError - [Errno 17] File exists: '/opt/synonym-data/sig_test_user/incoming'
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: create_dir_set_permissions in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: _add_handlers
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: ConsoleHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SyslogHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in makedirs: FileExistsError - [Errno 17] File exists: '/opt/synonym-data/sig_test_user/log'
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: create_dir_set_permissions in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: _add_handlers
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: ConsoleHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SyslogHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in makedirs: FileExistsError - [Errno 17] File exists: '/opt/synonym-data/sig_test_user/.ssh'
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: create_dir_set_permissions in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: _add_handlers
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: ConsoleHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SyslogHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in makedirs: FileExistsError - [Errno 17] File exists: '/opt/synonym-data/sig_test_user/submit'
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in create_user_dirs_first_level: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: add_user_to_os
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: create_user_dirs_first_level
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: create_dir_set_permissions in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: _add_handlers
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: ConsoleHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SyslogHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in makedirs: FileExistsError - [Errno 17] File exists: '/opt/synonym-data/test_user'
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: create_dir_set_permissions in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: _add_handlers
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: ConsoleHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SyslogHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in makedirs: FileExistsError - [Errno 17] File exists: '/opt/synonym-data/test_user/error'
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: create_dir_set_permissions in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: _add_handlers
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: ConsoleHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SyslogHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in makedirs: FileExistsError - [Errno 17] File exists: '/opt/synonym-data/test_user/incoming'
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: create_dir_set_permissions in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: _add_handlers
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: ConsoleHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SyslogHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in makedirs: FileExistsError - [Errno 17] File exists: '/opt/synonym-data/test_user/log'
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: create_dir_set_permissions in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: _add_handlers
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: ConsoleHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SyslogHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in makedirs: FileExistsError - [Errno 17] File exists: '/opt/synonym-data/test_user/.ssh'
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: create_dir_set_permissions in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: _add_handlers
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: ConsoleHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SyslogHandler, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in makedirs: FileExistsError - [Errno 17] File exists: '/opt/synonym-data/test_user/submit'
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in create_user_dirs_first_level: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: delete_rules_dirs
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: delete_user_rules_dirs
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: get_user_rules_to_delete
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/filetransfer/syn_filetransfer.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in delete_user_rules_dirs: StopIteration -
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: get_user_rules_to_delete
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/filetransfer/syn_filetransfer.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/filetransfer/syn_filetransfer.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: umount_incoming
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: get_umount_cmd in opt/synonym/lib/python3.7/site-packages/filetransfer/syn_filetransfer_cmd.py
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:44 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: delete_folder
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/filetransfer/syn_filetransfer.py
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/filetransfer/syn_filetransfer.py
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: umount_incoming
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: get_umount_cmd in opt/synonym/lib/python3.7/site-packages/filetransfer/syn_filetransfer_cmd.py
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: delete_folder
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/filetransfer/syn_filetransfer.py
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/filetransfer/syn_filetransfer.py
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: umount_incoming
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: get_umount_cmd in opt/synonym/lib/python3.7/site-packages/filetransfer/syn_filetransfer_cmd.py
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: delete_folder
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in delete_user_rules_dirs: StopIteration -
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: create_rule_dirs
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: create_dir_set_permissions in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: _add_handlers
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: ConsoleHandler, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SyslogHandler, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in makedirs: FileExistsError - [Errno 17] File exists: '/opt/synonym-data/incoming/test_rule'
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: create_dir_set_permissions in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: _add_handlers
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: ConsoleHandler, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SyslogHandler, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in makedirs: FileExistsError - [Errno 17] File exists: '/opt/synonym-data/incoming/rule1'
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: create_dir_set_permissions in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: _add_handlers
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: ConsoleHandler, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SyslogHandler, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in makedirs: FileExistsError - [Errno 17] File exists: '/opt/synonym-data/incoming/error_rule'
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: create_dir_set_permissions in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: _add_handlers
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: ConsoleHandler, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SyslogHandler, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in makedirs: FileExistsError - [Errno 17] File exists: '/opt/synonym-data/incoming/sign_rule'
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: create_dir_set_permissions in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynLogger, function: _add_handlers
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: ConsoleHandler, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SyslogHandler, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFormatter, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in makedirs: FileExistsError - [Errno 17] File exists: '/opt/synonym-data/sig_test_user/submit/sign_rule'
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: mount_incoming
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: is_mount_target_cmd in opt/synonym/lib/python3.7/site-packages/filetransfer/syn_filetransfer_cmd.py
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: manage_pushes
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: get_running_pushes in opt/synonym/lib/python3.7/site-packages/filetransfer/syn_filetransfer.py
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: get_running_pushes in opt/synonym/lib/python3.7/site-packages/filetransfer/syn_filetransfer.py
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: PushManager, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: PushManager, function: __init__
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynFiletransfer, function: add_ssh_pubkeys
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: get_pubkeys_to_commit_dir in opt/synonym/lib/python3.7/site-packages/conf/syn_config.py
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: get_or_create_ft_pubkeys_dir in opt/synonym/lib/python3.7/site-packages/conf/syn_config.py
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: get_pubkeys_not_existed_users_dir in opt/synonym/lib/python3.7/site-packages/conf/syn_config.py
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering function: get_or_create_ft_pubkeys_dir in opt/synonym/lib/python3.7/site-packages/conf/syn_config.py
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:45 synonyx-A-81 syn_config_file[20550]: INFO - tracer - Entering class: SynTracer, function: stop_trace
+Sep  3 18:36:48 synonyx-A-81 python3[19416]: INFO - tracer - ************ Performance Report ************
+Sep  3 18:36:48 synonyx-A-81 python3[19416]: INFO - tracer - Global memory usage (RSS): 19.3 MB
+Sep  3 18:36:48 synonyx-A-81 python3[19416]: INFO - tracer - CPU load averages (1min, 5min, 15min): 52.00%, 50.00%, 38.00%
+Sep  3 18:36:48 synonyx-A-81 python3[19416]: INFO - tracer - System total memory: 971.4 MB
+Sep  3 18:36:48 synonyx-A-81 python3[19416]: INFO - tracer - System used memory: 419.9 MB
+Sep  3 18:36:48 synonyx-A-81 python3[19416]: INFO - tracer - System available memory: 551.5 MB
+Sep  3 18:36:48 synonyx-A-81 python3[19416]: INFO - tracer - Total disk space: 8.2 GB
+Sep  3 18:36:48 synonyx-A-81 python3[19416]: INFO - tracer - Free disk space: 6.2 GB
+Sep  3 18:36:48 synonyx-A-81 python3[19416]: INFO - tracer - *******************************************
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: __init__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: get_config_object in opt/synonym/lib/python3.7/site-packages/conf/syn_config.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __getitem__: KeyError - b'SYNDBG'
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __getitem__: KeyError - 'SYNDBG'
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in get: KeyError - 'SYNDBG'
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __new__ in opt/synonym/lib/python3.7/site-packages/conf/syn_config.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _ProductionConfig, function: __init__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: validate in opt/synonym/lib/python3.7/site-packages/conf/syn_config.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: read_json in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in search_function: AttributeError - module 'encodings.utf_8' has no attribute 'getaliases'
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: from_json in opt/synonym/lib/python3.7/site-packages/conf/model_default_conf.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: get_board_type in opt/synonym/lib/python3.7/site-packages/conf/syn_config.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: read_conf in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _compile: KeyError - (<class 'str'>, 'BOARD_TYPE=(\\w)', 0)
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __next: IndexError - string index out of range
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __getitem__: IndexError - list index out of range
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _ProductionConfig, function: set_setup_attr
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: from_json_file in opt/synonym/lib/python3.7/site-packages/conf/model_node.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: read_json in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: validator_name in opt/synonym/lib/python3.7/site-packages/conf/model_node.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __iter__: GeneratorExit -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: validator_name in opt/synonym/lib/python3.7/site-packages/conf/model_node.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __iter__: GeneratorExit -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: validator_name in opt/synonym/lib/python3.7/site-packages/conf/model_node.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __iter__: GeneratorExit -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _compile: KeyError - (<class 're.Pattern'>, re.compile('^0x[0-9A-Fa-f]{4}$'), 0)
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _compile: KeyError - (<class 're.Pattern'>, re.compile('^0x[0-9A-Fa-f]{4}$'), 0)
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _compile: KeyError - (<class 're.Pattern'>, re.compile('^0x[0-9A-Fa-f]{2}$'), 0)
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _compile: KeyError - (<class 're.Pattern'>, re.compile('^0x[0-9A-Fa-f]{2}$'), 0)
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _keep_alive: KeyError - 133756518802056
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 python3[19416]: INFO - tracer - ************ Performance Report ************
+Sep  3 18:36:53 synonyx-A-81 python3[19416]: INFO - tracer - Global memory usage (RSS): 19.3 MB
+Sep  3 18:36:53 synonyx-A-81 python3[19416]: INFO - tracer - CPU load averages (1min, 5min, 15min): 96.00%, 59.00%, 41.00%
+Sep  3 18:36:53 synonyx-A-81 python3[19416]: INFO - tracer - System total memory: 971.4 MB
+Sep  3 18:36:53 synonyx-A-81 python3[19416]: INFO - tracer - System used memory: 436.3 MB
+Sep  3 18:36:53 synonyx-A-81 python3[19416]: INFO - tracer - System available memory: 535.1 MB
+Sep  3 18:36:53 synonyx-A-81 python3[19416]: INFO - tracer - Total disk space: 8.2 GB
+Sep  3 18:36:53 synonyx-A-81 python3[19416]: INFO - tracer - Free disk space: 6.2 GB
+Sep  3 18:36:53 synonyx-A-81 python3[19416]: INFO - tracer - *******************************************
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:53 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __getitem__: KeyError - b'LOGNAME'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __getitem__: KeyError - 'LOGNAME'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in get: KeyError - 'LOGNAME'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __getitem__: KeyError - b'USER'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __getitem__: KeyError - 'USER'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in get: KeyError - 'USER'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __getitem__: KeyError - b'LNAME'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __getitem__: KeyError - 'LNAME'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in get: KeyError - 'LNAME'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __getitem__: KeyError - b'USERNAME'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __getitem__: KeyError - 'USERNAME'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in get: KeyError - 'USERNAME'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: from_json_file in opt/synonym/lib/python3.7/site-packages/conf/model_node.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: read_json in opt/synonym/lib/python3.7/site-packages/features/utils.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: validator_name in opt/synonym/lib/python3.7/site-packages/conf/model_node.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __iter__: GeneratorExit -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: validator_name in opt/synonym/lib/python3.7/site-packages/conf/model_node.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __iter__: GeneratorExit -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: validator_name in opt/synonym/lib/python3.7/site-packages/conf/model_node.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: __iter__ in opt/synonym/lib/python3.7/site-packages/conf/enums.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __iter__: GeneratorExit -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: check_address in opt/synonym/lib/python3.7/site-packages/models/interface_model.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _compile: KeyError - (<class 're.Pattern'>, re.compile('^0x[0-9A-Fa-f]{4}$'), 0)
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _compile: KeyError - (<class 're.Pattern'>, re.compile('^0x[0-9A-Fa-f]{4}$'), 0)
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _compile: KeyError - (<class 're.Pattern'>, re.compile('^0x[0-9A-Fa-f]{2}$'), 0)
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _compile: KeyError - (<class 're.Pattern'>, re.compile('^0x[0-9A-Fa-f]{2}$'), 0)
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _LiteralGenericAlias, function: __eq__
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _keep_alive: KeyError - 133756518764904
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <dictcomp>: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: apply_transport_config
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _get_module_lock: KeyError - 'multiprocessing.pool'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _get_module_lock: KeyError - 'multiprocessing.util'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _get_module_lock: KeyError - 'multiprocessing.queues'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _get_module_lock: KeyError - '_multiprocessing'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _get_module_lock: KeyError - 'multiprocessing.connection'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _get_module_lock: KeyError - '_winapi'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _find_spec: AttributeError - 'VendorImporter' object has no attribute 'find_spec'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: VendorImporter, function: find_module
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _find_spec: AttributeError - '_SixMetaPathImporter' object has no attribute 'find_spec'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: _SixMetaPathImporter, function: find_module
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _find_and_load_unlocked: ModuleNotFoundError - No module named '_winapi'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _find_and_load: ModuleNotFoundError - No module named '_winapi'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in <module>: ModuleNotFoundError - No module named '_winapi'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _get_module_lock: KeyError - 'multiprocessing.synchronize'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _get_module_lock: KeyError - 'multiprocessing.popen_fork'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _at_fork_weak_calls: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20613]: ERROR - tracer - Exception in __init__: AttributeError - '_thread.lock' object has no attribute '_release_save'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in _at_fork_weak_calls: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20613]: ERROR - tracer - Exception in __init__: AttributeError - '_thread.lock' object has no attribute '_acquire_restore'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20613]: ERROR - tracer - Exception in __init__: AttributeError - '_thread.lock' object has no attribute '_is_owned'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __init__: AttributeError - '_thread.lock' object has no attribute '_release_save'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20613]: ERROR - tracer - Exception in _at_fork_weak_calls: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __init__: AttributeError - '_thread.lock' object has no attribute '_acquire_restore'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __init__: AttributeError - '_thread.lock' object has no attribute '_is_owned'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __init__: AttributeError - '_thread.lock' object has no attribute '_release_save'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __init__: AttributeError - '_thread.lock' object has no attribute '_acquire_restore'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __init__: AttributeError - '_thread.lock' object has no attribute '_is_owned'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __init__: AttributeError - '_thread.lock' object has no attribute '_release_save'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __init__: AttributeError - '_thread.lock' object has no attribute '_acquire_restore'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __init__: AttributeError - '_thread.lock' object has no attribute '_is_owned'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: get_slots_to_delete
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in get_slots_to_delete: StopIteration -
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __init__: AttributeError - '_thread.lock' object has no attribute '_release_save'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __init__: AttributeError - '_thread.lock' object has no attribute '_acquire_restore'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __init__: AttributeError - '_thread.lock' object has no attribute '_is_owned'
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: slots_to_run
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: get_slots_to_check
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: slots_to_reload
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: get_slots_to_check
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: <lambda>
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: is_need_to_run
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: actual_slots
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:54 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: check_active
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: is_service_active in opt/synonym/lib/python3.7/site-packages/models/slot_config_model.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: <lambda>
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: is_need_to_run
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: actual_slots
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: check_active
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: is_service_active in opt/synonym/lib/python3.7/site-packages/models/slot_config_model.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: <lambda>
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: is_need_to_run
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: actual_slots
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: check_active
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: is_service_active in opt/synonym/lib/python3.7/site-packages/models/slot_config_model.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: <lambda>
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: is_need_to_run
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: actual_slots
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: check_active
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: is_service_active in opt/synonym/lib/python3.7/site-packages/models/slot_config_model.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: <lambda>
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: is_need_to_run
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: actual_slots
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: check_active
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: is_service_active in opt/synonym/lib/python3.7/site-packages/models/slot_config_model.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: <lambda>
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: is_need_to_run
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: actual_slots
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: check_active
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: is_service_active in opt/synonym/lib/python3.7/site-packages/models/slot_config_model.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __init__: AttributeError - '_thread.lock' object has no attribute '_release_save'
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __init__: AttributeError - '_thread.lock' object has no attribute '_acquire_restore'
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __init__: AttributeError - '_thread.lock' object has no attribute '_is_owned'
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: <lambda>
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: is_need_to_reload
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: get_environment_file_content in opt/synonym/lib/python3.7/site-packages/models/slot_config_model.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: <lambda>
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: is_need_to_reload
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: get_environment_file_content in opt/synonym/lib/python3.7/site-packages/models/slot_config_model.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __str__: AttributeError - _str
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: <lambda> in opt/synonym/lib/python3.7/site-packages/transport/syn_transport.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: <lambda>
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering class: SynTransport, function: is_need_to_reload
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: INFO - tracer - Entering function: get_environment_file_content in opt/synonym/lib/python3.7/site-packages/models/slot_config_model.py
+Sep  3 18:36:55 synonyx-A-81 syn_config_tran[20592]: ERROR - tracer - Exception in __str__: AttributeError - _str

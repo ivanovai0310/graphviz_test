@@ -1,7 +1,7 @@
 import subprocess
-from code_analyzer import PythonStaticAnalyzer
-from diagramm_creater import GraphvizDiagramBuilder, Modes
-from tracer_analyzer import TracerAnalyzer
+from src.code_analyzer import PythonStaticAnalyzer
+from src.diagramm_creater import GraphvizDiagramBuilder, Modes
+from src.tracer_analyzer import TracerAnalyzer
 
 """
     https://github.com/ivanovai0310/graphviz_test
